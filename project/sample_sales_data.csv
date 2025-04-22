@@ -1,101 +1,101 @@
 Order ID,Date,Product Name,Category,Price,Quantity Sold,Total Revenue,Customer ID,Payment Method
-1,2024-01-31,Tablet,Electronics,30000,3,90000,3616,Cash
-2,2024-01-15,Smartwatch,Accessories,5000,3,15000,1478,Cash
-3,2024-03-07,Smartwatch,Accessories,5000,2,10000,3134,UPI
-4,2024-03-23,Gaming Console,Electronics,40000,3,120000,1422,Net Banking
-5,2024-01-19,Wireless Mouse,Accessories,1500,4,6000,2330,Card
-6,2024-01-03,Tablet,Electronics,30000,3,90000,1768,Net Banking
-7,2024-02-02,Laptop,Electronics,60000,5,300000,3825,Net Banking
-8,2024-01-08,Headphones,Accessories,2000,4,8000,4538,Cash
-9,2024-03-12,Shoes,Fashion,3000,4,12000,2520,UPI
-10,2024-01-17,Headphones,Accessories,2000,3,6000,2328,Cash
-11,2024-02-27,Shoes,Fashion,3000,4,12000,1396,Card
-12,2024-03-16,Shoes,Fashion,3000,1,3000,2901,Cash
-13,2024-03-28,T-shirt,Fashion,800,2,1600,4200,Net Banking
-14,2024-02-25,Smartwatch,Accessories,5000,2,10000,4587,Cash
-15,2024-01-17,Backpack,Fashion,1500,2,3000,1854,Cash
-16,2024-02-18,T-shirt,Fashion,800,2,1600,1163,Card
-17,2024-01-16,Smartwatch,Accessories,5000,2,10000,1697,Cash
-18,2024-02-07,Laptop,Electronics,60000,3,180000,4745,UPI
-19,2024-02-01,Smartwatch,Accessories,5000,1,5000,3608,UPI
-20,2024-03-07,Tablet,Electronics,30000,4,120000,2085,Net Banking
-21,2024-02-11,Tablet,Electronics,30000,3,90000,4536,UPI
-22,2024-01-06,Smartphone,Electronics,25000,5,125000,1293,UPI
-23,2024-02-14,Headphones,Accessories,2000,2,4000,2091,Card
-24,2024-03-12,Gaming Console,Electronics,40000,1,40000,2474,UPI
-25,2024-03-13,Gaming Console,Electronics,40000,4,160000,4921,Net Banking
-26,2024-01-14,Smartwatch,Accessories,5000,1,5000,1931,UPI
-27,2024-03-11,Laptop,Electronics,60000,1,60000,2243,UPI
-28,2024-02-18,Smartwatch,Accessories,5000,5,25000,1838,Card
-29,2024-01-09,T-shirt,Fashion,800,4,3200,4650,Cash
-30,2024-03-30,Smartphone,Electronics,25000,5,125000,1744,Card
-31,2024-03-13,Wireless Mouse,Accessories,1500,1,1500,1711,Card
-32,2024-03-02,Wireless Mouse,Accessories,1500,4,6000,1223,Card
-33,2024-01-14,Smartphone,Electronics,25000,5,125000,4304,UPI
-34,2024-01-26,Wireless Mouse,Accessories,1500,4,6000,4528,Card
-35,2024-01-08,Laptop,Electronics,60000,4,240000,2979,Net Banking
-36,2024-02-16,T-shirt,Fashion,800,4,3200,4454,Cash
-37,2024-01-17,T-shirt,Fashion,800,3,2400,3616,Card
-38,2024-02-04,Headphones,Accessories,2000,5,10000,1058,Net Banking
-39,2024-03-23,Backpack,Fashion,1500,5,7500,3329,Card
-40,2024-02-03,Headphones,Accessories,2000,4,8000,4985,Cash
-41,2024-03-06,Backpack,Fashion,1500,1,1500,1098,Card
-42,2024-01-18,Smartphone,Electronics,25000,5,125000,1851,Cash
-43,2024-02-14,Wireless Mouse,Accessories,1500,1,1500,2578,Card
-44,2024-03-07,Shoes,Fashion,3000,5,15000,1018,Cash
-45,2024-01-13,T-shirt,Fashion,800,1,800,2051,Card
-46,2024-02-25,Shoes,Fashion,3000,5,15000,3275,Net Banking
-47,2024-01-07,Gaming Console,Electronics,40000,3,120000,3136,UPI
-48,2024-01-05,Tablet,Electronics,30000,1,30000,3397,Net Banking
-49,2024-02-04,Wireless Mouse,Accessories,1500,2,3000,4324,Net Banking
-50,2024-03-24,T-shirt,Fashion,800,4,3200,2239,UPI
-51,2024-03-15,Laptop,Electronics,60000,3,180000,3083,UPI
-52,2024-01-30,Laptop,Electronics,60000,1,60000,3973,Cash
-53,2024-02-07,Wireless Mouse,Accessories,1500,3,4500,4918,UPI
-54,2024-01-27,Gaming Console,Electronics,40000,4,160000,4590,Card
-55,2024-03-08,Wireless Mouse,Accessories,1500,2,3000,4046,Cash
-56,2024-02-06,Wireless Mouse,Accessories,1500,4,6000,3643,Card
-57,2024-03-19,Gaming Console,Electronics,40000,3,120000,4157,Cash
-58,2024-01-14,Tablet,Electronics,30000,4,120000,1491,Cash
-59,2024-03-21,Smartwatch,Accessories,5000,5,25000,1673,Cash
-60,2024-03-21,Smartphone,Electronics,25000,5,125000,2912,Net Banking
-61,2024-03-29,Backpack,Fashion,1500,1,1500,4176,UPI
-62,2024-03-07,Shoes,Fashion,3000,2,6000,2158,Cash
-63,2024-01-14,Headphones,Accessories,2000,4,8000,3086,Card
-64,2024-03-26,T-shirt,Fashion,800,2,1600,4061,Net Banking
-65,2024-03-03,Headphones,Accessories,2000,2,4000,1308,Net Banking
-66,2024-03-23,Smartwatch,Accessories,5000,3,15000,3860,Card
-67,2024-03-11,Backpack,Fashion,1500,1,1500,4670,Cash
-68,2024-01-13,Laptop,Electronics,60000,1,60000,4349,Net Banking
-69,2024-03-31,Headphones,Accessories,2000,1,2000,4139,Card
-70,2024-02-15,Laptop,Electronics,60000,1,60000,1563,Net Banking
-71,2024-01-20,Tablet,Electronics,30000,3,90000,3499,Cash
-72,2024-01-19,Smartwatch,Accessories,5000,3,15000,4611,UPI
-73,2024-02-16,Smartphone,Electronics,25000,2,50000,4191,Net Banking
-74,2024-02-01,T-shirt,Fashion,800,5,4000,4134,Net Banking
-75,2024-02-06,Wireless Mouse,Accessories,1500,4,6000,4489,Net Banking
-76,2024-02-15,T-shirt,Fashion,800,4,3200,3348,Card
-77,2024-03-17,Laptop,Electronics,60000,2,120000,1780,UPI
-78,2024-03-26,Wireless Mouse,Accessories,1500,5,7500,1547,Card
-79,2024-03-09,Smartphone,Electronics,25000,1,25000,1673,Net Banking
-80,2024-01-11,Tablet,Electronics,30000,5,150000,4812,Net Banking
-81,2024-01-14,Smartwatch,Accessories,5000,4,20000,4907,UPI
-82,2024-01-12,Smartphone,Electronics,25000,5,125000,1253,Card
-83,2024-01-05,Wireless Mouse,Accessories,1500,2,3000,1034,Cash
-84,2024-03-25,Smartphone,Electronics,25000,2,50000,4033,Net Banking
-85,2024-01-07,T-shirt,Fashion,800,2,1600,2676,Cash
-86,2024-01-24,Wireless Mouse,Accessories,1500,4,6000,3106,Card
-87,2024-02-22,T-shirt,Fashion,800,3,2400,2881,Card
-88,2024-01-20,Smartwatch,Accessories,5000,5,25000,3061,UPI
-89,2024-02-24,Laptop,Electronics,60000,3,180000,4437,Net Banking
-90,2024-02-26,Shoes,Fashion,3000,3,9000,3513,UPI
-91,2024-01-19,Headphones,Accessories,2000,4,8000,2298,Card
-92,2024-02-26,Backpack,Fashion,1500,3,4500,1091,Cash
-93,2024-02-07,Headphones,Accessories,2000,4,8000,3251,Card
-94,2024-03-17,T-shirt,Fashion,800,2,1600,1410,UPI
-95,2024-03-04,T-shirt,Fashion,800,5,4000,2758,Cash
-96,2024-01-26,Gaming Console,Electronics,40000,1,40000,2481,Card
-97,2024-01-01,Laptop,Electronics,60000,1,60000,1448,UPI
-98,2024-01-19,Tablet,Electronics,30000,1,30000,2642,Card
-99,2024-03-22,Smartphone,Electronics,25000,1,25000,4758,Net Banking
-100,2024-01-01,T-shirt,Fashion,800,2,1600,3739,UPI
+1,2025-01-31,Tablet,Electronics,30000,3,90000,3616,Cash
+2,2025-01-15,Smartwatch,Accessories,5000,3,15000,1478,Cash
+3,2025-03-07,Smartwatch,Accessories,5000,2,10000,3134,UPI
+4,2025-03-23,Gaming Console,Electronics,40000,3,120000,1422,Net Banking
+5,2025-01-19,Wireless Mouse,Accessories,1500,4,6000,2330,Card
+6,2025-01-03,Tablet,Electronics,30000,3,90000,1768,Net Banking
+7,2025-02-02,Laptop,Electronics,60000,5,300000,3825,Net Banking
+8,2025-01-08,Headphones,Accessories,2000,4,8000,4538,Cash
+9,2025-03-12,Shoes,Fashion,3000,4,12000,2520,UPI
+10,2025-01-17,Headphones,Accessories,2000,3,6000,2328,Cash
+11,2025-02-27,Shoes,Fashion,3000,4,12000,1396,Card
+12,2025-03-16,Shoes,Fashion,3000,1,3000,2901,Cash
+13,2025-03-28,T-shirt,Fashion,800,2,1600,4200,Net Banking
+14,2025-02-25,Smartwatch,Accessories,5000,2,10000,4587,Cash
+15,2025-01-17,Backpack,Fashion,1500,2,3000,1854,Cash
+16,2025-02-18,T-shirt,Fashion,800,2,1600,1163,Card
+17,2025-01-16,Smartwatch,Accessories,5000,2,10000,1697,Cash
+18,2025-02-07,Laptop,Electronics,60000,3,180000,4745,UPI
+19,2025-02-01,Smartwatch,Accessories,5000,1,5000,3608,UPI
+20,2025-03-07,Tablet,Electronics,30000,4,120000,2085,Net Banking
+21,2025-02-11,Tablet,Electronics,30000,3,90000,4536,UPI
+22,2025-01-06,Smartphone,Electronics,25000,5,125000,1293,UPI
+23,2025-02-14,Headphones,Accessories,2000,2,4000,2091,Card
+24,2025-03-12,Gaming Console,Electronics,40000,1,40000,2474,UPI
+25,2025-03-13,Gaming Console,Electronics,40000,4,160000,4921,Net Banking
+26,2025-01-14,Smartwatch,Accessories,5000,1,5000,1931,UPI
+27,2025-03-11,Laptop,Electronics,60000,1,60000,2243,UPI
+28,2025-02-18,Smartwatch,Accessories,5000,5,25000,1838,Card
+29,2025-01-09,T-shirt,Fashion,800,4,3200,4650,Cash
+30,2025-03-30,Smartphone,Electronics,25000,5,125000,1744,Card
+31,2025-03-13,Wireless Mouse,Accessories,1500,1,1500,1711,Card
+32,2025-03-02,Wireless Mouse,Accessories,1500,4,6000,1223,Card
+33,2025-01-14,Smartphone,Electronics,25000,5,125000,4304,UPI
+34,2025-01-26,Wireless Mouse,Accessories,1500,4,6000,4528,Card
+35,2025-01-08,Laptop,Electronics,60000,4,240000,2979,Net Banking
+36,2025-02-16,T-shirt,Fashion,800,4,3200,4454,Cash
+37,2025-01-17,T-shirt,Fashion,800,3,2400,3616,Card
+38,2025-02-04,Headphones,Accessories,2000,5,10000,1058,Net Banking
+39,2025-03-23,Backpack,Fashion,1500,5,7500,3329,Card
+40,2025-02-03,Headphones,Accessories,2000,4,8000,4985,Cash
+41,2025-03-06,Backpack,Fashion,1500,1,1500,1098,Card
+42,2025-01-18,Smartphone,Electronics,25000,5,125000,1851,Cash
+43,2025-02-14,Wireless Mouse,Accessories,1500,1,1500,2578,Card
+44,2025-03-07,Shoes,Fashion,3000,5,15000,1018,Cash
+45,2025-01-13,T-shirt,Fashion,800,1,800,2051,Card
+46,2025-02-25,Shoes,Fashion,3000,5,15000,3275,Net Banking
+47,2025-01-07,Gaming Console,Electronics,40000,3,120000,3136,UPI
+48,2025-01-05,Tablet,Electronics,30000,1,30000,3397,Net Banking
+49,2025-02-04,Wireless Mouse,Accessories,1500,2,3000,4324,Net Banking
+50,2025-03-24,T-shirt,Fashion,800,4,3200,2239,UPI
+51,2025-03-15,Laptop,Electronics,60000,3,180000,3083,UPI
+52,2025-01-30,Laptop,Electronics,60000,1,60000,3973,Cash
+53,2025-02-07,Wireless Mouse,Accessories,1500,3,4500,4918,UPI
+54,2025-01-27,Gaming Console,Electronics,40000,4,160000,4590,Card
+55,2025-03-08,Wireless Mouse,Accessories,1500,2,3000,4046,Cash
+56,2025-02-06,Wireless Mouse,Accessories,1500,4,6000,3643,Card
+57,2025-03-19,Gaming Console,Electronics,40000,3,120000,4157,Cash
+58,2025-01-14,Tablet,Electronics,30000,4,120000,1491,Cash
+59,2025-03-21,Smartwatch,Accessories,5000,5,25000,1673,Cash
+60,2025-03-21,Smartphone,Electronics,25000,5,125000,2912,Net Banking
+61,2025-03-29,Backpack,Fashion,1500,1,1500,4176,UPI
+62,2025-03-07,Shoes,Fashion,3000,2,6000,2158,Cash
+63,2025-01-14,Headphones,Accessories,2000,4,8000,3086,Card
+64,2025-03-26,T-shirt,Fashion,800,2,1600,4061,Net Banking
+65,2025-03-03,Headphones,Accessories,2000,2,4000,1308,Net Banking
+66,2025-03-23,Smartwatch,Accessories,5000,3,15000,3860,Card
+67,2025-03-11,Backpack,Fashion,1500,1,1500,4670,Cash
+68,2025-01-13,Laptop,Electronics,60000,1,60000,4349,Net Banking
+69,2025-03-31,Headphones,Accessories,2000,1,2000,4139,Card
+70,2025-02-15,Laptop,Electronics,60000,1,60000,1563,Net Banking
+71,2025-01-20,Tablet,Electronics,30000,3,90000,3499,Cash
+72,2025-01-19,Smartwatch,Accessories,5000,3,15000,4611,UPI
+73,2025-02-16,Smartphone,Electronics,25000,2,50000,4191,Net Banking
+74,2025-02-01,T-shirt,Fashion,800,5,4000,4134,Net Banking
+75,2025-02-06,Wireless Mouse,Accessories,1500,4,6000,4489,Net Banking
+76,2025-02-15,T-shirt,Fashion,800,4,3200,3348,Card
+77,2025-03-17,Laptop,Electronics,60000,2,120000,1780,UPI
+78,2025-03-26,Wireless Mouse,Accessories,1500,5,7500,1547,Card
+79,2025-03-09,Smartphone,Electronics,25000,1,25000,1673,Net Banking
+80,2025-01-11,Tablet,Electronics,30000,5,150000,4812,Net Banking
+81,2025-01-14,Smartwatch,Accessories,5000,4,20000,4907,UPI
+82,2025-01-12,Smartphone,Electronics,25000,5,125000,1253,Card
+83,2025-01-05,Wireless Mouse,Accessories,1500,2,3000,1034,Cash
+84,2025-03-25,Smartphone,Electronics,25000,2,50000,4033,Net Banking
+85,2025-01-07,T-shirt,Fashion,800,2,1600,2676,Cash
+86,2025-01-24,Wireless Mouse,Accessories,1500,4,6000,3106,Card
+87,2025-02-22,T-shirt,Fashion,800,3,2400,2881,Card
+88,2025-01-20,Smartwatch,Accessories,5000,5,25000,3061,UPI
+89,2025-02-24,Laptop,Electronics,60000,3,180000,4437,Net Banking
+90,2025-02-26,Shoes,Fashion,3000,3,9000,3513,UPI
+91,2025-01-19,Headphones,Accessories,2000,4,8000,2298,Card
+92,2025-02-26,Backpack,Fashion,1500,3,4500,1091,Cash
+93,2025-02-07,Headphones,Accessories,2000,4,8000,3251,Card
+94,2025-03-17,T-shirt,Fashion,800,2,1600,1410,UPI
+95,2025-03-04,T-shirt,Fashion,800,5,4000,2758,Cash
+96,2025-01-26,Gaming Console,Electronics,40000,1,40000,2481,Card
+97,2025-01-01,Laptop,Electronics,60000,1,60000,1448,UPI
+98,2025-01-19,Tablet,Electronics,30000,1,30000,2642,Card
+99,2025-03-22,Smartphone,Electronics,25000,1,25000,4758,Net Banking
+100,2025-01-01,T-shirt,Fashion,800,2,1600,3739,UPI
